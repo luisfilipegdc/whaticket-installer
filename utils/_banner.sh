@@ -23,6 +23,7 @@ print_banner() {
 
   printf "${GREEN}";
   printf "CRM NO BOLSO\n";
+  printf "${WHITE}Seja bem vindo ao Instalador do CRM no Bolso${GRAY_LIGHT}"
   printf "${NC}";
 
   printf "\n"

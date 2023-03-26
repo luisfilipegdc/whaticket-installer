@@ -1,23 +1,22 @@
-### download & setup
+### Baixar e configurar
 
-Firstly, you need to download it:
+Em primeiro lugar, você precisa baixá-lo:
 
 
 ```bash
 sudo apt -y update && apt -y upgrade
 sudo apt install -y git
-git clone https://github.com/ocaradaprogramacao/whaticket-installer.git
+git clone https://github.com/ocaradaprogramacao/whaticket-installer.git 
 ```
 
-Now, all you gotta do is making it executable:
+Agora, tudo o que você precisa fazer é torná-lo executável:
 
 ```bash
 sudo chmod +x ./whaticket-installer/whaticket
 ```
 
-### usage
-
-After downloading and making it executable, you need to **navigate into** the installer directory and **run the script with sudo**:
+### Como Usar
+Depois de baixar e torná-lo executável, você precisa **navegar até o diretório do instalador e executar o script com sudo :**
 
 ```bash
 cd ./whaticket-installer
@@ -26,18 +25,4 @@ cd ./whaticket-installer
 ```bash
 sudo ./whaticket
 ```
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-whaticket-installer/README.md at master · riservato-xyz/whaticket-installer 
+
