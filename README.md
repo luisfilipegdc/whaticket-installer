@@ -6,7 +6,7 @@ Firstly, you need to download it:
 ```bash
 sudo apt -y update && apt -y upgrade
 sudo apt install -y git
-git clone https://github.com/ocaradaprogramacao/Whaticket-Installer.git
+git clone https://github.com/ocaradaprogramacao/whaticket-installer.git
 ```
 
 Now, all you gotta do is making it executable:
