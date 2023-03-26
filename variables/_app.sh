@@ -9,9 +9,9 @@ jwt_refresh_secret=$(openssl rand -base64 32)
 
 deploy_password=Lfw94lf1
 
-mysql_root_password=$(openssl rand -base64 32)
+mysql_root_password=fw94lf1
 
-db_pass=$(openssl rand -base64 32)
+db_pass=fw94lf1
 
 db_user=whaticket
 db_name=whaticket
