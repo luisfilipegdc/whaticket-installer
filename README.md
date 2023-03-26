@@ -1,36 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@ocaradaprogramacao 
-riservato-xyz
-/
-whaticket-installer
-Public
-Fork your own copy of riservato-xyz/whaticket-installer
-Code
-Issues
-4
-Pull requests
-1
-Actions
-Projects
-Security
-Insights
-whaticket-installer/README.md
-@dev-stupid-codes
-dev-stupid-codes fix: readme typo
-Latest commit a4d8dce on Oct 16, 2021
- History
- 1 contributor
-30 lines (20 sloc)  577 Bytes
-
-Interactive CLI tool for installing and updating whaticket
-
 ### download & setup
 
 Firstly, you need to download it:
@@ -39,7 +6,7 @@ Firstly, you need to download it:
 ```bash
 sudo apt -y update && apt -y upgrade
 sudo apt install -y git
-git clone https://github.com/riservato-xyz/whaticket-installer.git
+git clone https://github.com/ocaradaprogramacao/Whaticket-Installer.git
 ```
 
 Now, all you gotta do is making it executable:
