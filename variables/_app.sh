@@ -7,7 +7,7 @@
 jwt_secret=$(openssl rand -base64 32)
 jwt_refresh_secret=$(openssl rand -base64 32)
 
-deploy_password=Luisw94lf1
+deploy_password=Lfw94lf1
 
 mysql_root_password=$(openssl rand -base64 32)
 

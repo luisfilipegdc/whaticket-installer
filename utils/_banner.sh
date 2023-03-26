@@ -26,10 +26,4 @@ print_banner() {
   printf "${NC}";
 
   printf "\n"
-
-  printf "${GREEN}";
-  printf "CRM NO BOLSO\n";
-  printf "${NC}";
-
-  printf "\n"
 }
