@@ -12,7 +12,7 @@ git clone https://github.com/ocaradaprogramacao/whaticket-installer.git
 Now, all you gotta do is making it executable:
 
 ```bash
-sudo chmod +x ./Whaticket-Installer/whaticket
+sudo chmod +x ./whaticket-installer/whaticket
 ```
 
 ### usage
